@@ -22,3 +22,5 @@ pycbc_inference --verbose \
     --nprocesses 128 \
     --force
 ```
+
+我已经运行过以上代码，在大量并行的计算条件下，花费了几个小时，得到如下结果：[链接](https://www.atlas.aei.uni-hannover.de/work/yifan.wang/projects/whu/imrpv2/run_output/html/)
