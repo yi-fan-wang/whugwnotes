@@ -23,4 +23,4 @@ pycbc_inference --verbose \
     --force
 ```
 
-我已经运行过以上代码，在大量并行的计算条件下，花费了几个小时，得到如下结果：[链接](https://www.atlas.aei.uni-hannover.de/work/yifan.wang/projects/whu/imrpv2/run_output/html/)
+我已经运行过以上代码，在大量并行的计算条件下，花费了几个小时，得到如下结果：[链接](https://www.atlas.aei.uni-hannover.de/work/yifan.wang/projects/whu/imrpv2/run_output/html/)。在`1-inference_GW150914.ipynb`中我们分析一下这个参数估计的结果，运行结果文件我放在[这里](https://www.atlas.aei.uni-hannover.de/work/yifan.wang/projects/whu/imrpv2/run_output/posterior_files/H1L1V1-EXTRACT_POSTERIOR_GW150914-1126259200-400.hdf)
